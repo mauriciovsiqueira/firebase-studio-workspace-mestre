@@ -46,8 +46,8 @@ Use o `index.js` para criar suas rotas.
 ---
 
 ## ⚙️ Configurações da IDE (settings.json)
-Para manter o editor formatado e leve, utilize estas configurações no seu VS Code/IDX:
-Atalho: crtl + shift + p 
+Para manter o editor formatado e leve, utilize estas configurações no seu VS Code/IDX:  
+Atalho: crtl + shift + p   
 Na caixa de pesquisa: open user settings (JSON)
 
 ```json
