@@ -51,7 +51,8 @@ Para os comandos do Github, tenho em outro repositório com o "manual de sobrevi
 ## ⚙️ Configurações da IDE (settings.json)
 Para manter o editor formatado e leve, utilize estas configurações no seu VS Code/IDX:  
 Atalho: crtl + shift + p   
-Na caixa de pesquisa: open user settings (JSON)
+Na caixa de pesquisa: open user settings (JSON)  
+Substitua no seu JSON:
 
 ```json
 {
